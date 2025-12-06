@@ -2,7 +2,7 @@ commands:
     --> git init
     --> git status
     --> git add "file name" | git add.
-    --> git commit -m "Explaination"
+    --> git commit -m "Explanation"
     --> git push
     --> git pull
 
