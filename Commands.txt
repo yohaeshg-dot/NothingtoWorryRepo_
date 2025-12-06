@@ -1,0 +1,12 @@
+I learned the following:
+1. git config --global user.name "My name" | git config -- global user.email "My email" --------> Commit details
+2. Creating a folder in local -----> opening terminal:
+    --> git init --------> to create a repo
+    --> then open VSCODE and create a example file
+    --> git add "FIle name" -----> to add the particular file
+                (or) git add . ------> to add all the files
+    --> git commit -m "Explain the commit/what you have done"
+3. Create online repo:
+    --> copying the link they given in the starting of repo and adding the cmds given in the page
+    --> running those commands in the local terminal or cmd
+    --> then -----> git push -----> to push into online repo 
