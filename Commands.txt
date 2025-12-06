@@ -1,3 +1,11 @@
+commands:
+    --> git init
+    --> git status
+    --> git add "file name" | git add.
+    --> git commit -m "Explaination"
+    --> git push
+    --> git pull
+
 I learned the following:
 1. git config --global user.name "My name" | git config -- global user.email "My email" --------> Commit details
 2. Creating a folder in local -----> opening terminal:
